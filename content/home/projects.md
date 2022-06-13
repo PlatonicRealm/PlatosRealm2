@@ -7,9 +7,9 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 40
 
-title: Projects
+title: Physically Debunked
 subtitle: ''
 
 content:
@@ -46,3 +46,4 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+Physically Debunked is a YouTube channel about science, philosophy and atheism. The world around us is fascinating, but my understanding of it has lead me firmly to atheism. On this channel I like to introduce and discuss 'classic' arguments for God's existence, pointing out where I think they may be flawed, and how naturalism may provide a more plausible explanation.
