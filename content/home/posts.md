@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 30
 
-title: Recent Posts
+title: Plato's Realm Blog
 subtitle:
 
 content:
@@ -36,3 +36,4 @@ design:
   view: compact
   columns: '2'
 ---
+This blog is about reality. Here I write articles on some of the interesting topics that I've taken a deep-dive into. My interests are rather broad, so you can find articles on everything from the philosophy of inflation to the problem of evil in theology. 
